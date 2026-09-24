@@ -17,3 +17,5 @@ Le **JerseyCTF VI** est une compétition de cybersécurité de type *Jeopardy*, 
 
 * **Système d'exploitation recommandé :** Kali Linux / Parrot OS
 * **Utilitaires utilisés :** CyberChef, Wireshark, GDB, Burp Suite, Python (pwntools), hashcat, Ghidra
+---
+# Auteur: 5yn0r [https://github.com/5yn0r]
