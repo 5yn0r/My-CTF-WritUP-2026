@@ -1,8 +1,8 @@
-# 🛡️ SDICTF ESATIC 2026 – Write-ups
+# 🛡️ SDICTF(SEMAINE DE L'INNOVATION) ESATIC 2026 – Write-ups
 
 Auteur : **5yn0r**  
 Année : 2026  
-Événement : CTF organisé par le **C2E à la SDI** de l'**ESATIC**
+Événement : CTF organisé par le **A2E à la SDI** de l'**ESATIC**
 
 Ce dépôt contient les solutions détaillées de deux challenges du SDICTF 2026 :
 
