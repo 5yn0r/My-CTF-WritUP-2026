@@ -1,4 +1,4 @@
-# 🛡️ SDICTF(SEMAINE DE L'INNOVATION) ESATIC 2026 – Write-ups
+#  SDICTF(SEMAINE DE L'INNOVATION) ESATIC 2026 – Write-ups
 
 Auteur : **5yn0r**  
 Année : 2026  
@@ -11,7 +11,7 @@ Ce dépôt contient les solutions détaillées de deux challenges du SDICTF 2026
 
 ---
 
-## 🔐 1. Gestionnaire Pro – APK Analysis
+##  1. Gestionnaire Pro – APK Analysis
 
 | Catégorie      | Mobile / Reverse Engineering |
 |----------------|------------------------------|
@@ -44,7 +44,7 @@ L’APK `gestionnaire.apk` contient un fichier de configuration sensible mal dis
 
 ---
 
-## 🌍 2. La Porte Dérobée – Web SQLi
+##  2. La Porte Dérobée – Web SQLi
 
 | Catégorie       | Web / SQLi                   |
 |----------------|-------------------------------|
@@ -88,7 +88,7 @@ Ce travail est mis à disposition sous licence **MIT** pour le code et **CC BY-N
 - Vous êtes libre de partager et adapter ces write-ups à des fins non commerciales, avec mention de l’auteur.
 - Le code d’exploitation éventuel peut être réutilisé librement dans un cadre légal.
 
-### 🧑‍💻 Auteur
+### Auteur
 
 **5yn0r** – [GitHub](https://github.com/5yn0r)
 
@@ -96,6 +96,6 @@ Ce travail est mis à disposition sous licence **MIT** pour le code et **CC BY-N
 
 ## ⭐ Remerciements
 
-Merci au **C2E de l’ESATIC** et aux parrains **Raphael DAMO & Modeste AKAFFOU** - [GitHub](https://github.com/modesteakaffou) pour ces challenges instructifs.
+Merci au **A2E de l’ESATIC** et aux parrains **Raphael DAMO & Modeste AKAFFOU** - [GitHub](https://github.com/modesteakaffou) pour ces challenges instructifs.
 
 
